@@ -1,0 +1,1 @@
+My answers to the first few math challenges from Project Euler.
